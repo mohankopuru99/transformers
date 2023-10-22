@@ -286,3 +286,4 @@ We get the following results on the dev set of the benchmark with the previous c
 | WikiTableQuestion | Large | Denotation Accuracy | 57.2 |
 | TabFact | Base | Accuracy | 78.7 |
 | TabFact | Large | Accuracy | 83.6 |
+o
